@@ -1,3 +1,6 @@
+# local dev database
+chat.db
+
 # Logs
 logs
 *.log
